@@ -1,0 +1,22 @@
+# Archivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Archivos de base de datos (subimos solo la principal)
+*.db
+!database/tareas.db
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+
+# Configuración de IDEs
+.vscode/
+.idea/
