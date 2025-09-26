@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Flask](https://img.shields.io/badge/Flask-3.0-lightgrey)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0-orange)
+![SQLite](https://img.shields.io/badge/Database-SQLite-green)
+
 # ✅ Gestor de Tareas (Flask + SQLite)
 
 Aplicación web desarrollada en **Python (Flask + SQLAlchemy)** para la gestión de tareas.  
