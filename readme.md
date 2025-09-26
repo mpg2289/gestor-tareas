@@ -20,22 +20,22 @@ Permite crear, editar, eliminar y marcar como realizadas las tareas, todo con pe
 
 ### 🛠️ Tecnologías utilizadas
 
-    * Python 3
+-  Python 3
 
-    * Flask 3.0.3
+- Flask 3.0.3
 
-    * SQLAlchemy 2.0.30
+- SQLAlchemy 2.0.30
 
-    * SQLite
+- SQLite
 
-    * HTML + CSS (Bootstrap)
+- HTML + CSS (Bootstrap)
 
 ---
 
 #### 🚀 Instalación y uso
 
 1. Clona este repositorio:
-   git clone https://github.com/tuusuario/gestor-tareas.git
+   git clone https://github.com/mpg2289/gestor-tareas.git
    cd gestor-tareas
 
 2. Creacion y activación del entorno virtual
@@ -59,13 +59,13 @@ Abre en tu navegador 👉 http://127.0.0.1:5000
 
 ##### 📖 Posibles mejoras
 
-    * 🔍 Búsqueda y filtrado de tareas.
+- 🔍 Búsqueda y filtrado de tareas.
 
-    * 📅 Integración con calendario.
+- 📅 Integración con calendario.
 
-    * 👥 Soporte multiusuario con login.
+- 👥 Soporte multiusuario con login.
 
-    * 📱 Interfaz más responsive para móviles.
+- 📱 Interfaz más responsive para móviles.
 
 ---
 ###### 🙋‍♀️ Autor
